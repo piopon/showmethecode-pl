@@ -1,0 +1,33 @@
+# DISCOVERY
+
+ - who is the owner?
+   
+   1. PNK (me) - blog page
+   
+   * what is important to me?
+
+   1. Train web technologies skills
+   2. Motivate myself to learn new stuff (by writing posts, etc)
+   3. Share my knowledge and help other to develop
+
+ - who is the audience?
+
+   1. Students of programming and robotics
+   2. Pontential emplyers
+
+   * what is important to me?
+
+   1. Easy to find content (categorisation)
+   2. Various content types
+	a) tutorials of different programming languages, design principles, patterns, etc.
+	b) making of sample projects step-by-step
+   3. Learn new stuff
+
+# FEATURES
+
+  1. Articles / blog posts (programming)     -
+  2. Tutorials (C, C++, Java, HTML/CSS/JS)    |
+  3. Projects                                 | > coding
+  4. Learning path                           - 
+  5. Search (by text or browse lib tutorials with filters: language, level, type)
+  6. About me (contact form, newsletter)
